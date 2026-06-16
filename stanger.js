@@ -124,7 +124,7 @@ const products = {
   scottsER100ml: { name: "Scott's Emulsion Regular - 100ml", price: 77.90, active: true },
   slowmag30Cap: { name: "Slow-Mag - 30 Capsules", price: 164.99, active: false },
   slowmag10Eff: { name: "Slow-Mag - 10 Effervescent", price: 79.99, active: false },
-  sparAC500g: { name: "SPAR Aqueous Cream - 500g", price: 24.99, active: true },
+  sparAC500g: { name: "SPAR Aqueous Cream - 500g", price: 24.99, active: false },
   sparAI10SP: { name: "SPAR Adult Incontinence - 10 Slips & Pants", price: 129.90, active: false },
   sparGSBL175g: { name: "SPAR Germex Soap Bergamont and Lime - 175g", price: 11.99, active: true },
   sparGSH175g: { name: "SPAR Germex Soap Herbal - 175g", price: 11.99, active: true },
